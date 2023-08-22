@@ -29,3 +29,6 @@ This sales MySQL database consists of five tables:-
 ### Report:
 
 ![Sales Analysis Report( MySql and Power BI) (1)_page-0001](https://github.com/falakthapar/Sales-Analysis-Report-Using-MySQL-and-PowerBI/assets/138952488/31ae7a5f-4acc-4807-8358-af6f86d8d7ed)
+
+
+[###Google Drive Project Link](https://drive.google.com/drive/folders/1wynl-LsQJufsy6U4ak-_5imkIYQG0obT?usp=sharing)
