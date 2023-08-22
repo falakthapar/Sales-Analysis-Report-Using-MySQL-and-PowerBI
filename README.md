@@ -12,9 +12,9 @@ In this project, I first uploaded the data to the MySQL workbench and ran some q
 
 * MySQL Queries File: This File contains all the queries that I have used to get insights using the SQL language.
 
-* Dashboard Link : This is the link to the Power BI Dashboard, which I built using the dataset. 
+* Dashboard Link: This is the link to the Power BI Dashboard, which I built using the dataset. 
 
-### Data Overview:-
+### Data Overview:
 
 This sales MySQL database consists of five tables:- 
 
@@ -26,3 +26,4 @@ This sales MySQL database consists of five tables:-
 <li>Date</li>  
 </ol>
 
+![Sales Analysis Report( MySql and Power BI) (1)_page-0001](https://github.com/falakthapar/Sales-Analysis-Report-Using-MySQL-and-PowerBI/assets/138952488/31ae7a5f-4acc-4807-8358-af6f86d8d7ed)
